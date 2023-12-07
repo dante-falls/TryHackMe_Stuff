@@ -1,5 +1,7 @@
 <h1>Log Analysis Basics</h1>
 
+⚠️[Check Out This Room On TryHackMe And Learn The Basics Of Log Analysis](https://tryhackme.com/room/introtologanalysis)⚠️
+
 <h2>What Are Logs?</h2>
 Logs are recorded events or transactions within a system, device, or application. Specifically, these events can be related to application errors, system faults, audited user actions, resource uses, network connections, and more. 
 Each log entry contains relevant details to contextualize the event, such as its timestamp (the date and time it occurred), the source (the system that generated the log), and additional information about the specific log event.
